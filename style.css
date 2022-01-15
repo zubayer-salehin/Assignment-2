@@ -86,7 +86,7 @@ main{
     position: relative;
     line-height: 70px;
     margin: 16px 0px;
-    animation: trycode 3s linear 0s 1 alternate;
+    animation: trycode 2s linear 0s 1 alternate;
 }
 
 
@@ -96,7 +96,7 @@ main{
     position:relative;
     margin: 0px 0px 16px 0px;
     color: #3a3a3a;
-    animation: trycode 3s linear 0s 1 alternate;
+    animation: trycode 2s linear 0s 1 alternate;
 
 }
 
@@ -109,7 +109,7 @@ main{
     border-radius: 25px;
     display: inline-block;
     font-weight: 700;
-    animation: trycode 3s linear 0s 1 alternate;
+    animation: trycode 2s linear 0s 1 alternate;
 }
 
 i.fas.fa-arrow-right {
